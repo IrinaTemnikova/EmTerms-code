@@ -7,6 +7,8 @@ Irina Temnikova, Carlos Castillo, and Sarah Vieweg (2015). EMTerms 1.0: A Termin
 
 The terms are collected from tweets, after manual annotation of the emergency-categories-related terms. We use CMU ARK Twitter Part-of-Speech Tagger v0.3 (downloadable from: http://www.ark.cs.cmu.edu/TweetNLP/). All the files mentioned in the examples are uploaded here.
 
+Shell scripts are written by Carlos Castillo (chato.cl)
+
 Usage:
 
 Train.sh produces a Model
