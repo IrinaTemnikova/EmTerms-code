@@ -5,6 +5,8 @@ If you use this code, please cite:
 
 Irina Temnikova, Carlos Castillo, and Sarah Vieweg (2015). EMTerms 1.0: A Terminological Resource for Crisis Tweets. In Proceedings of 12th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2015), Kristiansand, Norway.
 
+The terms are collected from tweets, after manual annotation of the emergency-categories-related terms. We use CMU ARK Twitter Part-of-Speech Tagger v0.3 (downloadable from: http://www.ark.cs.cmu.edu/TweetNLP/). All the files mentioned in the examples are uploaded here.
+
 Usage:
 
 Train.sh produces a Model
