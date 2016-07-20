@@ -11,7 +11,7 @@ Usage:
 
 Train.sh produces a Model
 
-the input file must be a text file, one word per line, with 0 or 1 associated. 1 if the word is part of a term. The input files are produced via manual annotation of terms in the text.
+The input file must be a text file, one word per line, with 0 or 1 associated. 1 if the word is part of a term. The input files are produced via manual annotation of terms in the text.
 
 bash train.sh — to see the usage
 
